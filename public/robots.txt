@@ -1,0 +1,4 @@
+Sitemap: https://ozkkar.dev/sitemap-index.xml
+
+User-agent: *
+Allow: /

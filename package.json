@@ -1,0 +1,60 @@
+{
+  "name": "ozkkar.dev",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "format": "prettier -w '**/*.{js,jsx,cjs,ts,tsx,astro}'",
+    "preview": "astro preview",
+    "lint": "eslint . --max-warnings 0 --report-unused-disable-directives",
+    "test": "astro test",
+    "test:watch": "astro test --watch"
+  },
+  "devDependencies": {
+    "@astrojs/sitemap": "^3.2.1",
+    "@astrojs/tailwind": "^5.1.5",
+    "@fontsource-variable/inter": "^5.1.1",
+    "@fontsource/inter": "^5.1.1",
+    "@resvg/resvg-js": "^2.6.2",
+    "@tailwindcss/typography": "^0.5.16",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "astro": "^5.3.0",
+    "astro-expressive-code": "^0.38.3",
+    "astro-icon": "^1.1.0",
+    "eslint": "^8.50.0",
+    "eslint-plugin-astro": "^0.29.0",
+    "prettier-plugin-astro": "^0.12.0",
+    "satori": "^0.10.8",
+    "satori-html": "^0.3.2",
+    "sharp": "^0.32.6",
+    "tsm": "^2.3.0"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^4.0.0",
+    "@astrojs/preact": "^4.0.4",
+    "@iconify-json/cib": "^1.2.2",
+    "@iconify-json/mdi": "^1.2.3",
+    "@iconify-json/simple-icons": "^1.2.25",
+    "@octokit/core": "^6.1.4",
+    "astro-compressor": "^0.4.1",
+    "tailwindcss": "^3.3.3",
+    "typescript-esbuild": "^0.2.26",
+    "vite-plugin-compress": "^2.1.1"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "browserslist": "> 0.25%, not dead",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oscar503sv/ozkarportfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oscar503sv/ozkarportfolio/issues"
+  },
+  "homepage": "https://ozkkar.dev",
+  "private": false
+}

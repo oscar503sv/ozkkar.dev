@@ -1,0 +1,29 @@
+[
+  {
+    "name": "inventory-api",
+    "stars": 0,
+    "url": "https://github.com/oscar503sv/",
+    "description": "Una API de inventario construida con Django REST Framework y PostgreSQL.",
+    "languages": [
+      "Python",
+      "Django REST Framework",
+      "PostgreSQL",
+      "API REST"
+    ],
+    "role": "author"
+  },
+  {
+    "name": "booking-api",
+    "stars": 0,
+    "url": "https://github.com/oscar503sv/",
+    "website": "https://ozkkar.dev/",
+    "description": "Una API de reservas de hotel construida con Laravel y MySQL.",
+    "languages": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "API REST"
+    ],
+    "role": "author"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "href": "/",
+    "text": "Inicio"
+  },
+  {
+    "href": "/projects/",
+    "text": "Proyectos"
+  },
+  {
+    "href": "/blog/",
+    "text": "Blog"
+  },
+  {
+    "href": "https://github.com/oscar503sv/",
+    "target": "_blank",
+    "rel": "noopener noreferrer",
+    "text": "GitHub"
+  }
+]

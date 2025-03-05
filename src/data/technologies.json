@@ -1,0 +1,137 @@
+{
+  "Desarrollo web": [
+    {
+      "text": "JavaScript",
+      "logo": "mdi:language-javascript"
+    },
+    {
+      "text": "Laravel",
+      "logo": "cib:laravel"
+    },
+    {
+      "text": "Django",
+      "logo": "cib:django"
+    },
+    {
+      "text": "Flask",
+      "logo": "cib:flask"
+    },
+    {
+      "text": "Astro",
+      "logo": "simple-icons:astro"
+    },
+    {
+      "text": "Node.js",
+      "logo": "mdi:nodejs"
+    }
+  ],
+  "Herramientas de desarrollo": [
+    {
+      "text": "Visual Studio Code",
+      "logo": "mdi:visual-studio-code"
+    },
+    {
+      "text": "Git",
+      "logo": "mdi:git"
+    },
+    {
+      "text": "JetBrains",
+      "logo": "simple-icons:jetbrains"
+    }
+  ],
+  "Hosting y Cloud": [
+    {
+      "text": "Vercel",
+      "logo": "simple-icons:vercel"
+    },
+    {
+      "text": "Amazon Web Services",
+      "logo": "mdi:aws"
+    },
+    {
+      "text": "Cloudflare",
+      "logo": "cib:cloudflare"
+    }
+  ],
+  "Sistemas operativos": [
+    {
+      "text": "Windows",
+      "logo": "mdi:windows"
+    },
+    {
+      "text": "Fedora",
+      "logo": "mdi:fedora"
+    },
+    {
+      "text": "Ubuntu",
+      "logo": "mdi:ubuntu"
+    }
+  ],
+  "Bases de datos": [
+    {
+      "text": "MySQL",
+      "logo": "cib:mysql"
+    },
+    {
+      "text": "PostgreSQL",
+      "logo": "cib:postgresql"
+    },
+    {
+      "text": "MongoDB",
+      "logo": "cib:mongodb"
+    }
+  ],
+  "Otros lenguajes de programación y tecnologías": [
+    
+    {
+      "text": "TypeScript",
+      "logo": "mdi:language-typescript"
+    },
+    {
+      "text": "Python",
+      "logo": "mdi:language-python"
+    },
+    {
+      "text": "PHP",
+      "logo": "mdi:language-php"
+    },
+    {
+      "text": "Golang",
+      "logo": "mdi:language-go"
+    },
+    {
+      "text": "HTML",
+      "logo": "mdi:language-html5"
+    },
+    {
+      "text": "CSS",
+      "logo": "mdi:language-css3"
+    },
+    {
+      "text": "Tailwind CSS",
+      "logo": "mdi:tailwind"
+    },
+    {
+      "text": "Bootstrap",
+      "logo": "mdi:bootstrap"
+    },
+    {
+      "text": "Docker",
+      "logo": "mdi:docker"
+    }
+  ],
+  "Otro software": [
+    {
+      "text": "Slack",
+      "logo": "mdi:slack"
+    },
+    {
+      "text": "Visual Studio",
+      "logo": "mdi:visual-studio"
+    },
+    {
+      "text": "Discord",
+      "logo": "mdi:discord"
+    }
+  ]
+}
