@@ -3,7 +3,7 @@ title: ¿Qué es Tailwind CSS?
 description: Tailwind CSS es un framework CSS altamente personalizable y basado en utilidades que simplifica el proceso de diseño y construcción de interfaces de usuario.
 pubDate: 2025-02-20
 updatedDate: 2025-02-20
-hero: "~/assets/heros/tailwindcss.png"
+hero: "~/assets/heros/tailwindcss.webp"
 heroAlt: "¿Qué es Tailwind CSS?"
 tags: ["tailwind", "css", "framework", "utility-first"]
 ---

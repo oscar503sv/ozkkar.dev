@@ -3,7 +3,7 @@ title: "Integrar JWT en un proyecto de Laravel 10: Guía paso a paso"
 description: En este tutorial aprenderás a integrar JSON Web Tokens (JWT) en un proyecto Laravel 10 para autenticar y proteger tus rutas de forma segura.
 pubDate: 2025-02-20
 updatedDate: 2025-02-21
-hero: "~/assets/heros/astro_dark.png"
+hero: "~/assets/heros/laravel_jwt.webp"
 heroAlt: "JWT en Laravel"
 tags: ["laravel", "jwt", "php", "framework", "backend", "authentication"]
 ---

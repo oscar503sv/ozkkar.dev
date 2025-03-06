@@ -1,9 +1,9 @@
 ---
 title: "Implementación de modo oscuro en Astro con Tailwind CSS"
 description: "This guide will walk you through adding a seamless dark mode to your Astro project using Tailwind CSS and the prefers-color-scheme media query."
-pubDate: 2023-08-16
-updatedDate: 2023-10-16
-hero: "~/assets/heros/astro_dark.png"
+pubDate: 2024-08-16
+updatedDate: 2024-10-16
+hero: "~/assets/heros/astro_dark.webp"
 heroAlt: "Astro logo with a dark background"
 tags: ["astro", "tailwind", "dark-mode", "preact", "css", "framework"]
 ---

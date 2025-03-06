@@ -3,7 +3,7 @@ title: Script para convertir documentos de Word a PDF
 description: En este tutorial aprenderás a crear un script en Python que convierte documentos de Word a PDF utilizando la biblioteca win32com.
 pubDate: 2025-02-20
 updatedDate: 2025-02-20
-hero: "~/assets/heros/nginx_secure.png"
+hero: "~/assets/heros/script_pdf_word.webp"
 heroAlt: "Convertir Word a PDF"
 tags: ["script", "python", "windows", "pdf", "venv", "env", "pywin32"]
 ---
