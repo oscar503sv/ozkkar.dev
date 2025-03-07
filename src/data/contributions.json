@@ -2,12 +2,26 @@
   {
     "name": "inventory-api",
     "stars": 0,
+    "url": "https://github.com/oscar503sv/currency-conversor",
+    "website": "https://react-currency-conversor.netlify.app/",
+    "description": "Conversor de divisas en tiempo real construido con React, TailwindCSS v4, Bun y Vite.",
+    "languages": [
+      "JavaScript",
+      "React",
+      "TailwindCSS",
+      "API REST"
+    ],
+    "role": "author"
+  },
+  {
+    "name": "inventory-api",
+    "stars": 0,
     "url": "https://github.com/oscar503sv/",
-    "description": "Una API de inventario construida con Django REST Framework y PostgreSQL.",
+    "description": "Una API de inventario construida con FastAPI, Pydantic, SQLAlchemy, Alembic y MySQL.",
     "languages": [
       "Python",
-      "Django REST Framework",
-      "PostgreSQL",
+      "fastAPI",
+      "MySQL",
       "API REST"
     ],
     "role": "author"
