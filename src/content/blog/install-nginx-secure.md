@@ -1,8 +1,8 @@
 ---
 title: "Instalación y configuración de Nginx con Let’s Encrypt y iptables en Ubuntu"
 description: "En este tutorial, te mostraremos cómo instalar y proteger Nginx en un servidor Ubuntu 22.04, 20.04, 18.04 utilizando Let's Encrypt e iptables"
-pubDate: 2024-10-19
-updatedDate: 2024-10-20
+pubDate: 2024-11-15
+updatedDate: 2024-11-15
 hero: "~/assets/heros/nginx_secure.webp"
 heroAlt: "Nginx secure on Ubuntu"
 tags: ["nginx", "ubuntu", "linux", "webserver", "security", "firewall", "iptables", "letsencrypt", "certbot"]

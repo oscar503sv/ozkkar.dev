@@ -4,12 +4,12 @@
     "stars": 0,
     "url": "https://github.com/oscar503sv/currency-conversor",
     "website": "https://react-currency-conversor.netlify.app/",
-    "description": "Conversor de divisas en tiempo real construido con React, TailwindCSS v4, Bun y Vite.",
+    "description": "Conversor de divisas que obtiene la tasa de cambio en tiempo real construido con React, TailwindCSS, Bun y Vite.",
     "languages": [
       "JavaScript",
       "React",
       "TailwindCSS",
-      "API REST"
+      "Consumer API"
     ],
     "role": "author"
   },
@@ -17,7 +17,7 @@
     "name": "inventory-api",
     "stars": 0,
     "url": "https://github.com/oscar503sv/",
-    "description": "Una API de inventario construida con FastAPI, Pydantic, SQLAlchemy, Alembic y MySQL.",
+    "description": "Una API de gestión de inventario construida con FastAPI, Pydantic, SQLAlchemy, Alembic y MySQL.",
     "languages": [
       "Python",
       "fastAPI",
@@ -31,7 +31,7 @@
     "stars": 0,
     "url": "https://github.com/oscar503sv/",
     "website": "https://ozkkar.dev/",
-    "description": "Una API de reservas de hotel construida con Laravel y MySQL.",
+    "description": "Una API de gestión de reservas de hotel, construida con Laravel y MySQL.",
     "languages": [
       "PHP",
       "Laravel",

@@ -1,8 +1,8 @@
 ---
 title: Iniciar un proyecto en Django e integrarlo con Tailwind CSS
 description: En este tutorial aprenderás a crear un proyecto en Django y a integrarlo con Tailwind CSS para mejorar el diseño de tu aplicación.
-pubDate: 2025-02-20
-updatedDate: 2025-02-20
+pubDate: 2024-10-20
+updatedDate: 2024-10-20
 hero: "~/assets/heros/django_tailwind.webp"
 heroAlt: "Integrar Tailwind con Django"
 tags: ["django", "tailwind", "css", "python", "node.js"]

@@ -5,6 +5,18 @@
       "logo": "mdi:language-javascript"
     },
     {
+      "text": "Astro",
+      "logo": "simple-icons:astro"
+    },
+    {
+      "text": "React",
+      "logo": "simple-icons:react"
+    },
+    {
+      "text": "Node.js",
+      "logo": "mdi:nodejs"
+    },
+    {
       "text": "Laravel",
       "logo": "cib:laravel"
     },
@@ -17,54 +29,12 @@
       "logo": "cib:flask"
     },
     {
-      "text": "Astro",
-      "logo": "simple-icons:astro"
+      "text": "FastAPI",
+      "logo": "simple-icons:fastapi"
     },
     {
-      "text": "Node.js",
-      "logo": "mdi:nodejs"
-    }
-  ],
-  "Herramientas de desarrollo": [
-    {
-      "text": "Visual Studio Code",
-      "logo": "mdi:visual-studio-code"
-    },
-    {
-      "text": "Git",
-      "logo": "mdi:git"
-    },
-    {
-      "text": "JetBrains",
-      "logo": "simple-icons:jetbrains"
-    }
-  ],
-  "Hosting y Cloud": [
-    {
-      "text": "Vercel",
-      "logo": "simple-icons:vercel"
-    },
-    {
-      "text": "Amazon Web Services",
-      "logo": "mdi:aws"
-    },
-    {
-      "text": "Cloudflare",
-      "logo": "cib:cloudflare"
-    }
-  ],
-  "Sistemas operativos": [
-    {
-      "text": "Windows",
-      "logo": "mdi:windows"
-    },
-    {
-      "text": "Fedora",
-      "logo": "mdi:fedora"
-    },
-    {
-      "text": "Ubuntu",
-      "logo": "mdi:ubuntu"
+      "text": "TailwindCSS",
+      "logo": "mdi:tailwind"
     }
   ],
   "Bases de datos": [
@@ -75,10 +45,42 @@
     {
       "text": "PostgreSQL",
       "logo": "cib:postgresql"
+    }
+  ],
+  "Herramientas de desarrollo": [
+    {
+      "text": "Git",
+      "logo": "mdi:git"
     },
     {
-      "text": "MongoDB",
-      "logo": "cib:mongodb"
+      "text": "GitHub",
+      "logo": "mdi:github"
+    },
+    {
+      "text": "Postman",
+      "logo": "simple-icons:postman"
+    },
+    {
+      "text": "Swagger/OpenAPI",
+      "logo": "simple-icons:swagger"
+    }
+  ],
+  "Hosting y Cloud": [
+    {
+      "text": "Vercel",
+      "logo": "simple-icons:vercel"
+    },
+    {
+      "text": "Netlify",
+      "logo": "simple-icons:netlify"
+    },
+    {
+      "text": "Amazon Web Services",
+      "logo": "mdi:aws"
+    },
+    {
+      "text": "Fly.io",
+      "logo": "simple-icons:flydotio"
     }
   ],
   "Otros lenguajes de programación y tecnologías": [
@@ -108,26 +110,36 @@
       "logo": "mdi:language-css3"
     },
     {
-      "text": "Tailwind CSS",
-      "logo": "mdi:tailwind"
-    },
-    {
-      "text": "Bootstrap",
-      "logo": "mdi:bootstrap"
-    },
-    {
       "text": "Docker",
       "logo": "mdi:docker"
     }
   ],
+  "Sistemas operativos": [
+    {
+      "text": "Windows",
+      "logo": "mdi:windows"
+    },
+    {
+      "text": "Fedora",
+      "logo": "mdi:fedora"
+    },
+    {
+      "text": "Ubuntu",
+      "logo": "mdi:ubuntu"
+    }
+  ],
   "Otro software": [
+    {
+      "text": "Visual Studio Code",
+      "logo": "mdi:visual-studio-code"
+    },
     {
       "text": "Slack",
       "logo": "mdi:slack"
     },
     {
-      "text": "Visual Studio",
-      "logo": "mdi:visual-studio"
+      "text": "Trello",
+      "logo": "mdi:trello"
     },
     {
       "text": "Discord",
