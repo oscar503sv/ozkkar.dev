@@ -1,6 +1,6 @@
 ---
 title: "Implementación de modo oscuro en Astro con Tailwind CSS"
-description: Guía para implementar un modo oscuro a tu proyecto Astro utilizando Tailwind CSS
+description: "Guía detallada para implementar un modo oscuro en tu proyecto Astro utilizando Tailwind CSS y la media query prefers-color-scheme."
 pubDate: 2024-08-16
 updatedDate: 2024-08-16
 hero: "~/assets/heros/astro_dark.webp"
