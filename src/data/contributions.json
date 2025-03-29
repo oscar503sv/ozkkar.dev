@@ -16,13 +16,29 @@
   {
     "name": "inventory-api",
     "stars": 0,
-    "url": "https://github.com/oscar503sv/",
-    "description": "Una API de gestión de inventario construida con FastAPI, Pydantic, SQLAlchemy, Alembic y MySQL.",
+    "url": "https://github.com/oscar503sv/inventory-api",
+    "description": "Una API de gestión de inventario construida con FastAPI, SQLAlchemy como ORM, Pydantic para validaciones, Alembic para migrations y MySQL como base de datos.",
     "languages": [
       "Python",
-      "fastAPI",
+      "Pydantic",
+      "SQLAlchemy",
+      "Alembic",
       "MySQL",
       "API REST"
+    ],
+    "role": "author"
+  },
+  {
+    "name": "event-ticket-system",
+    "stars": 0,
+    "url": "https://github.com/oscar503sv/event-ticket-system",
+    "description": "Sistema backend completo para la gestión de eventos, venta de tickets y procesamiento de pagos construido con el framework ElysiaJS, TypeScript, Zod para validaciones, PostgreSQL y Drizzle como ORM.",
+    "languages": [
+      "TypeScript",
+      "ElysiaJS",
+      "PostgreSQL",
+      "Drizzle",
+      "Zod"
     ],
     "role": "author"
   },
