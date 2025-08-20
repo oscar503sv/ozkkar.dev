@@ -1,5 +1,18 @@
 [
   {
+    "name": "Lexi",
+    "stars": 15,
+    "url": "https://github.com/Dzheremi2/Lexi",
+    "website": "https://flathub.org/apps/io.github.dzheremi2.lexi",
+    "description": "Lexi es una aplicación GTK para Linux de diccionario autónoma para aquellos que desean que su aprendizaje (o creación) de idiomas sea estructurado y sencillo.",
+    "languages": [
+      "Python",
+      "Meson",
+      "CSS"
+    ],
+    "role": "contributor"
+  },
+  {
     "name": "currency-conversor",
     "stars": 0,
     "url": "https://github.com/oscar503sv/currency-conversor",
