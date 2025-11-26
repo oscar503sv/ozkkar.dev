@@ -1,7 +1,7 @@
 [
   {
     "name": "Lexi",
-    "stars": 15,
+    "stars": 16,
     "url": "https://github.com/Dzheremi2/Lexi",
     "website": "https://flathub.org/apps/io.github.dzheremi2.lexi",
     "description": "Lexi es una aplicación GTK para Linux de diccionario autónoma para aquellos que desean que su aprendizaje (o creación) de idiomas sea estructurado y sencillo.",
@@ -13,7 +13,7 @@
     "role": "contributor"
   },
   {
-    "name": "currency-conversor",
+    "name": "Conversor de divisas",
     "stars": 0,
     "url": "https://github.com/oscar503sv/currency-conversor",
     "website": "https://react-currency-conversor.netlify.app/",
@@ -27,10 +27,10 @@
     "role": "author"
   },
   {
-    "name": "inventory-api",
+    "name": "Sistema de gestión de inventario",
     "stars": 0,
     "url": "https://github.com/oscar503sv/inventory-api",
-    "description": "Una API de gestión de inventario construida con FastAPI, SQLAlchemy como ORM, Pydantic para validaciones, Alembic para migrations y MySQL como base de datos.",
+    "description": "Backend de gestión de inventario construida con FastAPI, SQLAlchemy como ORM, Pydantic para validaciones, Alembic para migrations y MySQL como base de datos.",
     "languages": [
       "Python",
       "Pydantic",
@@ -42,16 +42,16 @@
     "role": "author"
   },
   {
-    "name": "event-ticket-system",
+    "name": "Sistema de gestión de proyectos",
     "stars": 0,
-    "url": "https://github.com/oscar503sv/event-ticket-system",
-    "description": "Sistema backend completo para la gestión de eventos, venta de tickets y procesamiento de pagos construido con el framework ElysiaJS, TypeScript, Zod para validaciones, PostgreSQL y Drizzle como ORM.",
+    "url": "https://github.com/oscar503sv/gestion-de-proyectos",
+    "description": "Aplicación web moderna para la gestión de proyectos construida con Next.js, React y Tailwind.",
     "languages": [
       "TypeScript",
-      "ElysiaJS",
-      "PostgreSQL",
-      "Drizzle",
-      "Zod"
+      "Next.js",
+      "React",
+      "TailwindCSS",
+      "API REST"
     ],
     "role": "author"
   },
@@ -66,6 +66,21 @@
       "Laravel",
       "MySQL",
       "API REST"
+    ],
+    "role": "author"
+  },
+  {
+    "name": "Sistema de autenticación con Firebase",
+    "stars": 1,
+    "url": "https://github.com/oscar503sv/oauth-native-firebase",
+    "website": "https://ozkkar.dev/",
+    "description": "Sistema de autenticación OAuth con Firebase y React Native.",
+    "languages": [
+      "TypeScript",
+      "React",
+      "Expo",
+      "React Native",
+      "Firebase"
     ],
     "role": "author"
   }
